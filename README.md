@@ -1,3 +1,4 @@
+```
 Type octopus text generator microservice.
 
 To run locally:
@@ -6,3 +7,4 @@ To run locally:
 -Install Maven dependencies
 -Run the project
 -To get a random piece of text on your browser, go to localhost:8080/textParagraph
+```
